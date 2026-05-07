@@ -1,0 +1,16 @@
+client_id,nom,age,ville,salaire,statut,date_inscription
+1, Marie Dupont  ,  34, Paris     ,   52000, actif  , 2022-03-15
+2, Thomas Bernard,    , Lyon      ,   38500, actif  , 2023-01-08
+3,               ,    ,           ,        ,        , 
+4, Lucas Petit   ,  31, Marseille ,   41200, inactif, 2022-07-03
+5, Emma Leroy    ,  52, Paris     ,        , actif  , 2020-05-17
+6, Nathan Moreau ,  26,           ,   38000, actif  , 2023-06-22
+7,               ,    ,           ,        , inactif, 
+8, Hugo Laurent  ,  33,           ,   48300, actif  , 2022-12-11
+9, Léa Garcia    ,  41, Nantes    ,   61000, actif  , 2021-03-04
+10, Maxime Roux   ,    , Strasbourg,   36900,        , 2023-09-14
+11, Julie David   ,  57, Paris     ,   89000, actif  , 2019-10-28
+12,               ,  22,           ,        , inactif, 2024-02-01
+13, Clara Fontaine,  36, Nantes    ,   53200,        , 2022-04-19
+14, Pierre Morel  ,  48, Marseille ,   72100, actif  , 2020-08-07
+15, Inès Girard   ,  30, Lyon      ,        , actif  , 2023-11-03

@@ -1,0 +1,137 @@
+[
+  {
+    "client_id":1,
+    "nom":" Marie Dupont  ",
+    "age":"  34",
+    "ville":" Paris     ",
+    "salaire":"   52000",
+    "statut":" actif  ",
+    "date_inscription":" 2022-03-15"
+  },
+  {
+    "client_id":2,
+    "nom":" Thomas Bernard",
+    "age":"    ",
+    "ville":" Lyon      ",
+    "salaire":"   38500",
+    "statut":" actif  ",
+    "date_inscription":" 2023-01-08"
+  },
+  {
+    "client_id":3,
+    "nom":"               ",
+    "age":"    ",
+    "ville":"           ",
+    "salaire":"        ",
+    "statut":"        ",
+    "date_inscription":" "
+  },
+  {
+    "client_id":4,
+    "nom":" Lucas Petit   ",
+    "age":"  31",
+    "ville":" Marseille ",
+    "salaire":"   41200",
+    "statut":" inactif",
+    "date_inscription":" 2022-07-03"
+  },
+  {
+    "client_id":5,
+    "nom":" Emma Leroy    ",
+    "age":"  52",
+    "ville":" Paris     ",
+    "salaire":"        ",
+    "statut":" actif  ",
+    "date_inscription":" 2020-05-17"
+  },
+  {
+    "client_id":6,
+    "nom":" Nathan Moreau ",
+    "age":"  26",
+    "ville":"           ",
+    "salaire":"   38000",
+    "statut":" actif  ",
+    "date_inscription":" 2023-06-22"
+  },
+  {
+    "client_id":7,
+    "nom":"               ",
+    "age":"    ",
+    "ville":"           ",
+    "salaire":"        ",
+    "statut":" inactif",
+    "date_inscription":" "
+  },
+  {
+    "client_id":8,
+    "nom":" Hugo Laurent  ",
+    "age":"  33",
+    "ville":"           ",
+    "salaire":"   48300",
+    "statut":" actif  ",
+    "date_inscription":" 2022-12-11"
+  },
+  {
+    "client_id":9,
+    "nom":" L\u00e9a Garcia    ",
+    "age":"  41",
+    "ville":" Nantes    ",
+    "salaire":"   61000",
+    "statut":" actif  ",
+    "date_inscription":" 2021-03-04"
+  },
+  {
+    "client_id":10,
+    "nom":" Maxime Roux   ",
+    "age":"    ",
+    "ville":" Strasbourg",
+    "salaire":"   36900",
+    "statut":"        ",
+    "date_inscription":" 2023-09-14"
+  },
+  {
+    "client_id":11,
+    "nom":" Julie David   ",
+    "age":"  57",
+    "ville":" Paris     ",
+    "salaire":"   89000",
+    "statut":" actif  ",
+    "date_inscription":" 2019-10-28"
+  },
+  {
+    "client_id":12,
+    "nom":"               ",
+    "age":"  22",
+    "ville":"           ",
+    "salaire":"        ",
+    "statut":" inactif",
+    "date_inscription":" 2024-02-01"
+  },
+  {
+    "client_id":13,
+    "nom":" Clara Fontaine",
+    "age":"  36",
+    "ville":" Nantes    ",
+    "salaire":"   53200",
+    "statut":"        ",
+    "date_inscription":" 2022-04-19"
+  },
+  {
+    "client_id":14,
+    "nom":" Pierre Morel  ",
+    "age":"  48",
+    "ville":" Marseille ",
+    "salaire":"   72100",
+    "statut":" actif  ",
+    "date_inscription":" 2020-08-07"
+  },
+  {
+    "client_id":15,
+    "nom":" In\u00e8s Girard   ",
+    "age":"  30",
+    "ville":" Lyon      ",
+    "salaire":"        ",
+    "statut":" actif  ",
+    "date_inscription":" 2023-11-03"
+  }
+]
